@@ -1,8 +1,6 @@
 # 🎓 University Chatbot System
 
-An intelligent, terminal-based chatbot built with Python for simulating a responsive university inquiry system. This bot dynamically adapts through user input and stores conversational logs, offering a lightweight yet extendable approach to building human-like virtual assistants.
-
----
+An intelligent, terminal-based chatbot built with Python for simulating a responsive university inquiry system. This bot dynamically adapts through user input and stores conversational logs, offering a lightweight yet extendable approach to building human like virtual assistants.
 
 ## 🚀 Overview
 
