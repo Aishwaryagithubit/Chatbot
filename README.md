@@ -19,8 +19,6 @@ This chatbot serves as an interactive command line assistant that responds to us
 ✅ **Fallback Randomized Responses**  
 ✅ **Complete Conversation Logging**  
 
----
-
 ## 🧠 How It Works
 
 1. **Start a session**: The user enters their name, and a virtual agent is randomly assigned.
