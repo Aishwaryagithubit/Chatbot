@@ -10,7 +10,7 @@ This chatbot serves as an interactive command line assistant that responds to us
 - Provide a flexible agent interaction experience.
 - Evolve over time through real-time learning from users.
 
-## 📦 Features
+## Features
 
 ✅ **Smart Keyword Recognition**  
 ✅ **Customizable Agent Interaction**  
